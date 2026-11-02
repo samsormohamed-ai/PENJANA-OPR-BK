@@ -1,0 +1,20 @@
+{
+  "name": "Penjana OPR Bimbingan & Kaunseling",
+  "short_name": "Penjana OPR",
+  "description": "Penjana One Page Report (OPR) Bimbingan dan Kaunseling. Dibangunkan oleh Samsor bin Mohammed, GBK SK Jawi.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f5c31",
+  "theme_color": "#0f5c31",
+  "lang": "ms",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
